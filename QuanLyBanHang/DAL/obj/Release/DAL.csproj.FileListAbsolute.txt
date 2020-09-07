@@ -1,0 +1,9 @@
+D:\Dev\BanHang-1\DAL\bin\Release\DAL.dll
+D:\Dev\BanHang-1\DAL\bin\Release\DAL.pdb
+D:\Dev\BanHang-1\DAL\bin\Release\DTO.dll
+D:\Dev\BanHang-1\DAL\bin\Release\DTO.pdb
+D:\Dev\BanHang-1\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\Dev\BanHang-1\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Dev\BanHang-1\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Dev\BanHang-1\DAL\obj\Release\DAL.dll
+D:\Dev\BanHang-1\DAL\obj\Release\DAL.pdb

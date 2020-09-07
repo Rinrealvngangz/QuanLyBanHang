@@ -1,0 +1,11 @@
+D:\Dev\BanHang-1\BLL\bin\Release\BLL.dll
+D:\Dev\BanHang-1\BLL\bin\Release\BLL.pdb
+D:\Dev\BanHang-1\BLL\bin\Release\DAL.dll
+D:\Dev\BanHang-1\BLL\bin\Release\DTO.dll
+D:\Dev\BanHang-1\BLL\bin\Release\DAL.pdb
+D:\Dev\BanHang-1\BLL\bin\Release\DTO.pdb
+D:\Dev\BanHang-1\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\Dev\BanHang-1\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\Dev\BanHang-1\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\Dev\BanHang-1\BLL\obj\Release\BLL.dll
+D:\Dev\BanHang-1\BLL\obj\Release\BLL.pdb

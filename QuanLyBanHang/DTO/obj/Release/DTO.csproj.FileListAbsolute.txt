@@ -1,0 +1,5 @@
+D:\Dev\BanHang-1\DTO\bin\Release\DTO.dll
+D:\Dev\BanHang-1\DTO\bin\Release\DTO.pdb
+D:\Dev\BanHang-1\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Dev\BanHang-1\DTO\obj\Release\DTO.dll
+D:\Dev\BanHang-1\DTO\obj\Release\DTO.pdb
