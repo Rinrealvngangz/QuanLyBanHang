@@ -6,6 +6,7 @@ Chương trình quản lý bán hàng
 ![user](https://user-images.githubusercontent.com/49154074/92401918-de775500-f158-11ea-81fe-6acc1f1332f9.PNG)
 ## How to use 
 Go into the GUI ->bin->Debug ->DataQLBH and run Create Database to create the data
+Go into the GUI ->bin->Debug ->info get user,password
 ### Add Guna Framework
 Open App and open ToolBox Right click General -> add Tab -> Choose items > browse -> file Download Guna FrameWork
 ## Required program
