@@ -2,8 +2,8 @@
 Chương trình quản lý bán hàng
 ## Some pictures from the program
 ![login](https://user-images.githubusercontent.com/49154074/92401711-69a41b00-f158-11ea-8d77-8a171094a91f.PNG)
-![sanPham](https://user-images.githubusercontent.com/49154074/92401904-dae3ce00-f158-11ea-8ff3-cf2da112a380.PNG)
-![user](https://user-images.githubusercontent.com/49154074/92401918-de775500-f158-11ea-81fe-6acc1f1332f9.PNG)
+![Capture](https://user-images.githubusercontent.com/49154074/92428728-1d89c280-f1ba-11ea-85ac-b643c163f96b.PNG)
+![user](https://user-images.githubusercontent.com/49154074/92428730-1ebaef80-f1ba-11ea-9123-ceaf11566886.PNG)
 ## How to use 
 Go into the GUI ->bin->Debug ->DataQLBH and run Create Database to create the data
 Go into the GUI ->bin->Debug ->info get user,password
